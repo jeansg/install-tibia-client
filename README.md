@@ -1,6 +1,6 @@
 # Tibia client installer for Linux [![Build status](https://travis-ci.org/jeansg/install-tibia-client.svg)](https://travis-ci.org/jeansg/install-tibia-client)
 
-`install-tibia-client` is a Bash script that downloads the latest version of the `Tibia` client and extracts it to the `~/tibia11/` folder.
+`install-tibia-client` is a Bash script that downloads the latest version of the `Tibia` client from https://secure.tibia.com/account/?subtopic=downloadclient and extracts it to the `~/tibia11/` folder.
 
 ## Installation
 
